@@ -26,3 +26,4 @@ When running, the webpage has a button for triggering the fetch request. The opt
 
 - `npm start`
 - `npm test`
+# fetchful
